@@ -1,46 +1,33 @@
-<div align="center">
-# Ravi
- 
-**Frontend Dev & Full Stack in the Making** · Bengaluru, India
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
-[![Portfolio](https://img.shields.io/badge/Live%20Projects-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://todaynotesa.netlify.app)
- 
-</div>
+# I'm Ravi
+
+Frontend · Full Stack in the Making
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindra-singh-index1)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/RajputtRavi01)
+
 ---
- 
-Frontend development student building real projects from scratch and sharing the journey publicly. Currently learning React and working toward full stack development.
- 
+
+## 🚀 Projects
+
+**[Notes App](https://todaynotesa.netlify.app)**
+What I learnt: localStorage persistence · live search · relative timestamps
+
+**[Cinéma — Movie Search](https://cinema-discover.netlify.app)**
+What I learnt: Fetch API · async/await · loading state · error handling
+
 ---
- 
-## Skills
- 
-**HTML · CSS · JavaScript (ES6+)**
- 
-DOM manipulation · localStorage · Fetch API · Async/Await · REST APIs · Git & GitHub
- 
+
+## 🌱 Currently Learning
+
+- Building a practice e-commerce site (Shopio)
+- Category filtering · Cart functionality · sidebar drawer · bottom sheet interactions
+
 ---
- 
-## Projects
- 
-| Project | What I learnt | Stack | Link |
-|--------|--------------|-------|------|
-| **Notes App** | localStorage persistence, live search with regex, dynamic DOM, relative timestamps, modal UI, input validation | JS · HTML · CSS | [Live](https://todaynotesa.netlify.app) · [GitHub](https://github.com/ravi-ravie/Notes-App) |
-| **To-Do App** | DOM manipulation, localStorage, input validation | JS · HTML · CSS | — |
-| **Movie Search** | Fetch API, async/await, working with third-party REST APIs (OMDB) | JS · HTML · CSS | — |
-| **Shopio** *(in progress)* | Fakestore API, category filtering, product cards, sidebar drawer, dynamic search | JS · HTML · CSS | — |
- 
+
+## ⚡ Fun Fact
+
+Every project I build is something I didn't know how to make when I started it.
+
 ---
- 
-## Currently
- 
-- Building Shopio — a shopping UI with cart and sidebar functionality
-- Learning React fundamentals
-- Open to frontend internship opportunities
----
- 
-<div align="center">
-*Always happy to connect and build together — reach out anytime.*
- 
-</div>
+
+*build together — grow together*
