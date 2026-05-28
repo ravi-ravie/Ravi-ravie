@@ -8,12 +8,12 @@ Frontend · Full Stack in the Making
 ---
 
 ## 🚀 Projects
-
+###### Mobile-first projects
 **[Notes App](https://todaynotesa.netlify.app)**
-What I learnt: localStorage persistence · live search · relative timestamps
+Key features: localStorage · live search · relative timestamps · modal overlay
 
 **[Cinéma — Movie Search](https://cinema-discover.netlify.app)**
-What I learnt: Fetch API · async/await · loading state · error handling
+Key features: OMDB API · error handling · loading state · view/state switching
 
 ---
 
@@ -24,10 +24,6 @@ What I learnt: Fetch API · async/await · loading state · error handling
 
 ---
 
-## ⚡ Fun Fact
+## ✨ Fun Fact
 
 Every project I build is something I didn't know how to make when I started it.
-
----
-
-*build together — grow together*
