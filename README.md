@@ -15,12 +15,14 @@ Key features: localStorage · live search · relative timestamps · modal overla
 **[Cinéma — Movie Search](https://cinema-discover.netlify.app)**
 Key features: OMDB API · error handling · loading state · view/state switching
 
+**[Shopio](https://shopio-shop.vercel.app)**
+Key features: Fake Store API · cart persistence with localStorage · live search & category filter · dynamic price calculation · sidebar · bottom sheet
+
 ---
 
 ## 🌱 Currently Learning
 
-- Building a practice e-commerce site (Shopio)
-- Category filtering · Cart functionality · sidebar drawer · bottom sheet interactions
+- Taking a short break to build a project entirely with AI, just for fun
 
 ---
 
