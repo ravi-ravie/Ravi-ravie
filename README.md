@@ -22,7 +22,7 @@ Key features: Fake Store API · cart persistence with localStorage · live searc
 
 ## 🌱 Currently Learning
 
-- Learning react from basics
+- Advanced React through project
 
 ---
 
